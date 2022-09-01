@@ -30,9 +30,9 @@ Ensure that your change is reflected on your remote repository.
 ### TODO 7: Install and use helpful plugins.
 
 [Learn how to install plugins here](https://www.jetbrains.com/help/idea/managing-plugins.html). Install the following:
-(a) Checkstyle-IDEA by Jamie Shiell. Install it, and reboot IntelliJ if required.
-(b) SpotBugs by Tagir Valeev. Install this too, and reboot IntelliJ if required.
-(c) PMDPlugin by Amit Dev. Install it and (you guessed it) reboot if required.
++ Checkstyle-IDEA by Jamie Shiell. Install it, and reboot IntelliJ if required.
++ SpotBugs by Tagir Valeev. Install this too, and reboot IntelliJ if required.
++ PMDPlugin by Amit Dev. Install it and (you guessed it) reboot if required.
 
 ### TODO 8: Fix style errors.
 
@@ -46,4 +46,4 @@ Now run CheckStyle using the Google Checks rules. You should see a few style err
 */
 ```
 
-and possibly [update the indention settings](https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html#tabs_and_indents).
+and possibly [update the indention settings](https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html#tabs_and_indents). Style is very important in coding and following style is **absolutely mandatory** in this class. Check out this resource if you want to learn more about [Google style](https://google.github.io/styleguide/javaguide.html). 
