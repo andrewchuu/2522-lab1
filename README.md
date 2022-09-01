@@ -20,7 +20,7 @@ Follow **Step 1** of the [Getting Started with Gradle guide](https://www.jetbrai
 Connect the remote GitHub repository to your local Git repository. Note the difference: GitHub is a hosting platform for remote repositories whereas Git is the Version Control System (VCS) that we're using. [Follow the guide here](https://www.jetbrains.com/idea/guide/tutorials/creating-a-project-from-github/adding-updating-remotes/).
 
 ### TODO 5: Refactor your package name.
-Following the [instructions here](https://www.jetbrains.com/help/idea/rename-refactorings.html), refactor your package name to something readable and consistent (e.g., "comp2522").
+Following the [instructions here](https://www.jetbrains.com/help/idea/rename-refactorings.html), refactor your package name to `comp2522`.
 
 ### TODO 6: Push a unique "Hello, world!" greeting.
 In the `Main.java` under the `main` method, change the "Hello, world!" greeting to something unique, such as your favourite animal or baseball team. Add to your current commit and push to the remote branch by [following these instructions](https://www.jetbrains.com/help/idea/commit-and-push-changes.html). Always make sure to write an informative commit message!
