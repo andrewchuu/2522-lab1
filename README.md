@@ -46,4 +46,14 @@ Now run CheckStyle using the Google Checks rules. You should see a few style err
 */
 ```
 
-and possibly [update the indention settings](https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html#tabs_and_indents). Style is very important in coding and following style is **absolutely mandatory** in this class. Check out this resource if you want to learn more about [Google style](https://google.github.io/styleguide/javaguide.html). 
+Change the comment to something more descriptive.
+
+You may need to [update the indention settings](https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html#tabs_and_indents). Style is very important in coding and following style is **absolutely mandatory** in this class. Check out this resource if you want to learn more about [Google style](https://google.github.io/styleguide/javaguide.html).
+
+### TODO 9: Add this repo as a remote and push.
+Go through the same actions as before and add this repo as a remote.
+
+## Grading Scheme (out of 100)
+- 50 points: project builds on Paul's machine
+- 25 points: no style errors
+- 25 points: comment is reasonably descriptive
