@@ -23,4 +23,6 @@ Connect the remote GitHub repository to your local Git repository. Note the diff
 Following the [instructions here](https://www.jetbrains.com/help/idea/rename-refactorings.html), refactor your package name to something readable and consistent (e.g., "comp2522").
 
 ### TODO 6: Push a unique "Hello, world!" greeting.
-In the `Main.java` under the `main` method, change the "Hello, world!" greeting to something unique, such as your name.
+In the `Main.java` under the `main` method, change the "Hello, world!" greeting to something unique, such as your favourite animal or baseball team. Add to your current commit and push to the remote branch by [following these instructions](https://www.jetbrains.com/help/idea/commit-and-push-changes.html). Always make sure to write an informative commit message!
+
+Ensure that your change is reflected on your remote repository.
