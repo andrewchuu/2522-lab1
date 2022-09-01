@@ -26,3 +26,24 @@ Following the [instructions here](https://www.jetbrains.com/help/idea/rename-ref
 In the `Main.java` under the `main` method, change the "Hello, world!" greeting to something unique, such as your favourite animal or baseball team. Add to your current commit and push to the remote branch by [following these instructions](https://www.jetbrains.com/help/idea/commit-and-push-changes.html). Always make sure to write an informative commit message!
 
 Ensure that your change is reflected on your remote repository.
+
+### TODO 7: Install and use helpful plugins.
+
+[Learn how to install plugins here](https://www.jetbrains.com/help/idea/managing-plugins.html). Install the following:
+(a) Checkstyle-IDEA by Jamie Shiell. Install it, and reboot IntelliJ if required.
+(b) SpotBugs by Tagir Valeev. Install this too, and reboot IntelliJ if required.
+(c) PMDPlugin by Amit Dev. Install it and (you guessed it) reboot if required.
+
+### TODO 8: Fix style errors.
+
+![checkstyle](https://user-images.githubusercontent.com/3506567/187993163-4bbedf60-30d3-445b-9c15-041061b9f765.png)
+
+Now run CheckStyle using the Google Checks rules. You should see a few style errors show up. Fix them. You'll have to add a comment like this:
+
+```java
+/**
+* Your comment here.
+*/
+```
+
+and possibly [update the indention settings](https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html#tabs_and_indents).
